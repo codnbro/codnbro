@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodnbro%2Fcodnbro%2F&count_bg=%23FF0000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Welcome to CODNBRO </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hello! Bro </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Development Challenger </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hello! For the past 5 years, I have worked in service operation and planning. Recently, I left my job and became a beginner learner in the field of development. I am currently working hard to become a full<li>stack developer for fintech services. In this journey, I am learning various technologies such as HTML, CSS, JavaScript, JAVA, Node.js, Spring, Golang, and Python, with a particular focus on Python as my primary language. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
